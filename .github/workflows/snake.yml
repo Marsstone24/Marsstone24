@@ -11,22 +11,29 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        variant:
+          - "dist/snake.svg"
+          - "dist/snake-dark.svg?palette=github-dark"
+          - "dist/snake-neon.svg?color_snake=#00ff99"
 
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate Snake
+      - name: Generate Snake ${{ matrix.variant }}
         uses: Platane/snk@v3
         with:
           github_user_name: Marsstone24
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            ${{ matrix.variant }}
 
       - name: Push Snake
+        if: matrix.variant == 'dist/snake.svg'
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
