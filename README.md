@@ -9,6 +9,9 @@
 🏆 **Trophies**  
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Marsstone24&theme=radical&no-frame=true&no-bg=true)
 
+## 📊 Stats & Snake
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Marsstone24&theme=github-compact)
+
 📈 **Activity Graph**  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Marsstone24&theme=github-compact&hide_border=true)
 
