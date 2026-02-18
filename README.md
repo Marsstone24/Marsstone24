@@ -4,7 +4,8 @@
   <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Marsstone24/Marsstone24/output/snake.svg" />
 </picture>
 
-
+**This are my Stats**
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marsstone24&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 
 <!--
 **Marsstone24/Marsstone24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
