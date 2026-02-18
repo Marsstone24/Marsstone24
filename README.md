@@ -5,16 +5,18 @@
 </picture>
 
 <div align="center">
+  
+![Tech Stack](https://skillicons.dev/icons?i=rust,c,js,react,html,scss,mysql,docker&perline=8)
 
-🏆 **Trophies**  
-![Trophy](https://github-profile-trophy.vercel.app/?username=Marsstone24&theme=radical&no-frame=true&no-bg=true)
+🏆 **GitHub Trophies**  
+![Trophy](https://github-profile-trophy.vercel.app/?username=Marsstone24&theme=radical&no-frame=true&margin-w=15&margin-h=15)
 
 ## 📊 Stats
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marsstone24&layout=compact&theme=radical&cache_seconds=3600)
 
 
 📈 **Activity Graph**  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Marsstone24&theme=github-compact&hide_border=true)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Marsstone24&theme=github-compact&hide_border=true)
 
 </div>
 
