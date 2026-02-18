@@ -9,7 +9,17 @@
   <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Marsstone24/Marsstone24/output/snake.svg" />
 </picture>
   
-![Tech Stack](https://skillicons.dev/icons?i=rust,c,js,html,scss,mysql,docker&perline=7)
+
+<p>
+  <img alt="Rust Icon" src="https://skillicons.dev/icons?i=rust"/>
+  <img alt="C Icon" src="https://skillicons.dev/icons?i=c"/>
+  <img alt="JavaScript Icon" src="https://skillicons.dev/icons?i=js"/>
+  <img alt="Html Icon" src="https://skillicons.dev/icons?i=html"/>
+  <img alt="SCSS Icon" src="https://skillicons.dev/icons?i=scss"/>
+  <img alt="Mysql Icon" src="https://skillicons.dev/icons?i=mysql"/>
+  <img alt="Docker Icon" src="https://skillicons.dev/icons?i=docker"/>
+</p>
+
 
 ## 📊 Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marsstone24&layout=compact&theme=radical&cache_seconds=3600)
