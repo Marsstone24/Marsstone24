@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![Rust](https://img.shields.io/badge/Rust-orange)
-![PHP](https://img.shields.io/badge/PHP-blue)
+![Stats](https://github-readme-stats.vercel.app/api?username=Marsstone24)
 <!--
 **Marsstone24/Marsstone24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
