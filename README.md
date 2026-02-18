@@ -20,11 +20,6 @@
   <img alt="Docker Icon" src="https://skillicons.dev/icons?i=docker"/>
 </p>
 
-
-## 📊 Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marsstone24&layout=compact&theme=radical&cache_seconds=3600)
-
-
 📈 **Activity Graph**  
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Marsstone24&theme=github-compact&hide_border=true)
 
