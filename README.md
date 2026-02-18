@@ -1,8 +1,8 @@
-<img alt="Snake eating my contributions" 
-     src="https://raw.githubusercontent.com/Marsstone24/Marsstone24/output/github-contribution-grid-snake.svg?palette=github-dark" />
-
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marsstone24/Marsstone24/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marsstone24/Marsstone24/output/snake.svg" />
+  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Marsstone24/Marsstone24/output/snake.svg" />
+</picture>
 
 
 
