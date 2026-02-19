@@ -22,7 +22,10 @@
 
 <br></br>
 
-📈 **Activity Graph**  
+## <img width="20" height="20" alt="player" src="https://github.com/user-attachments/assets/24fea50c-4411-43a7-863b-a0cdc6b7e55b" /> ![stats](https://streak-stats.demolab.com/?user=Marsstone24&theme=tokyonight)
+
+
+## 📈 Activity Graph
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Marsstone24&theme=github-compact&hide_border=true)
 
 ## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/543570eb-0c56-44cc-9898-3f3cccd7d6bb"/> Repositories
