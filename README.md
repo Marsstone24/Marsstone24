@@ -10,6 +10,12 @@
   <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Marsstone24/Marsstone24/output/snake.svg" />
 </picture>
 
+<br></br>
+
+## <img width="20" height="20" alt="player" src="https://github.com/user-attachments/assets/24fea50c-4411-43a7-863b-a0cdc6b7e55b" /> Stats & Tech Stats
+
+![stats](https://streak-stats.demolab.com/?user=Marsstone24&theme=tokyonight)
+
 <p>
   <img alt="Rust Icon" src="https://skillicons.dev/icons?i=rust"/>
   <img alt="C Icon" src="https://skillicons.dev/icons?i=c"/>
@@ -20,12 +26,7 @@
   <img alt="Docker Icon" src="https://skillicons.dev/icons?i=docker"/>
 </p>
 
-<br></br>
-
-## <img width="20" height="20" alt="player" src="https://github.com/user-attachments/assets/24fea50c-4411-43a7-863b-a0cdc6b7e55b" /> Stats
-
-![stats](https://streak-stats.demolab.com/?user=Marsstone24&theme=tokyonight)
-
+<br</br>
 
 ## 📈 Activity Graph
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Marsstone24&theme=github-compact&hide_border=true)
