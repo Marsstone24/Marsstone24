@@ -16,6 +16,8 @@
 
 ![stats](https://streak-stats.demolab.com/?user=Marsstone24&theme=tokyonight)
 
+<br></br>
+
 <p>
   <img alt="Rust Icon" src="https://skillicons.dev/icons?i=rust"/>
   <img alt="C Icon" src="https://skillicons.dev/icons?i=c"/>
@@ -26,7 +28,8 @@
   <img alt="Docker Icon" src="https://skillicons.dev/icons?i=docker"/>
 </p>
 
-<br</br>
+<br></br>
+<br></br>
 
 ## 📈 Activity Graph
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Marsstone24&theme=github-compact&hide_border=true)
