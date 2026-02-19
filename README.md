@@ -22,7 +22,9 @@
 
 <br></br>
 
-## <img width="20" height="20" alt="player" src="https://github.com/user-attachments/assets/24fea50c-4411-43a7-863b-a0cdc6b7e55b" /> ![stats](https://streak-stats.demolab.com/?user=Marsstone24&theme=tokyonight)
+## <img width="20" height="20" alt="player" src="https://github.com/user-attachments/assets/24fea50c-4411-43a7-863b-a0cdc6b7e55b" /> Stats
+
+![stats](https://streak-stats.demolab.com/?user=Marsstone24&theme=tokyonight)
 
 
 ## 📈 Activity Graph
