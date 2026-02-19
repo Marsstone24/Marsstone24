@@ -18,15 +18,13 @@
 
 <br></br>
 
-<p>
-  <img alt="Rust Icon" src="https://skillicons.dev/icons?i=rust"/>
-  <img alt="C Icon" src="https://skillicons.dev/icons?i=c"/>
-  <img alt="JavaScript Icon" src="https://skillicons.dev/icons?i=js"/>
-  <img alt="Html Icon" src="https://skillicons.dev/icons?i=html"/>
-  <img alt="SCSS Icon" src="https://skillicons.dev/icons?i=scss"/>
-  <img alt="Mysql Icon" src="https://skillicons.dev/icons?i=mysql"/>
-  <img alt="Docker Icon" src="https://skillicons.dev/icons?i=docker"/>
-</p>
+|Category|Languages|
+|--------|---------|
+|Low-Level|![Rust](https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white) ![C](https://img.shields.io/badge/C-003B6D?style=for-the-badge&logo=c&logoColor=white) ![ASM](https://img.shields.io/badge/ASM-6E4C13?style=for-the-badge&logo=assembly&logoColor=white)|
+|High-Level|![C#](https://img.shields.io/badge/C%23-23999D?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)|
+|Web|![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=FFFFFF)|
+|Database|![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=4479A1) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF) ![MariaDB](https://img.shields.io/badge/MariaDB-E47323?style=for-the-badge&logo=mariadb&logoColor=FFFFFF)|
+
 
 <br></br>
 <br></br>
