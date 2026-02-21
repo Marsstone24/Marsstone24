@@ -4,11 +4,11 @@
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marsstone24/Marsstone24/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marsstone24/Marsstone24/output/snake.svg" />
-  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Marsstone24/Marsstone24/output/snake.svg" />
-</picture>
+## 🧠 Greedy Snake AI Demo
+<div align="center">
+  🎮 **[Download GreedySnakeAI](GreedySnakeAI)** - Live Rust Executable<br>
+  <small>Adaptive FOV | Endless Mode | Pure Greedy Pathfinding | 100% Random!</small>
+</div>
 
 <br></br>
 
