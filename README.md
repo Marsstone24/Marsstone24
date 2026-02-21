@@ -2,14 +2,6 @@
 
 <img width="1700" height="460" alt="github-header-banner(1)" src="https://github.com/user-attachments/assets/9e78f74b-323f-4469-a4df-38d051e99caf" />
 
-
-
-## 🧠 Greedy Snake AI Demo
-<div align="center">
-  🎮 **[Download GreedySnakeAI](GreedySnakeAI)** - Live Rust Executable<br>
-  <small>Adaptive FOV | Endless Mode | Pure Greedy Pathfinding | 100% Random!</small>
-</div>
-
 <br></br>
 
 ## <img width="20" height="20" alt="player" src="https://github.com/user-attachments/assets/24fea50c-4411-43a7-863b-a0cdc6b7e55b" /> Stats & Tech Stats
