@@ -33,10 +33,10 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Marsstone24/Physics-Engine">Physics Engine for my 2D RPG Game</a>
+      
     </td>
     <td>
-      <p><img alt="Tech Stack" src="https://skillicons.dev/icons?i=java"/></p>
+      
     </td>
   </tr>
 </table>
