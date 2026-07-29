@@ -25,19 +25,4 @@
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Marsstone24&theme=github-compact&hide_border=true)
 
 ## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/543570eb-0c56-44cc-9898-3f3cccd7d6bb"/> Repositories
-
-<table>
-  <tr>
-    <td><b>Name</b></td>
-    <td><b>Tech Stack</b></td>
-  </tr>
-  <tr>
-    <td>
-      
-    </td>
-    <td>
-      
-    </td>
-  </tr>
-</table>
 </div>
