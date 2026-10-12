@@ -24,5 +24,4 @@
 ## 📈 Activity Graph
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Marsstone24&theme=github-compact&hide_border=true)
 
-##### Placeholder
 </div>
